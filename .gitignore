@@ -1,0 +1,24 @@
+# Maven
+target/
+
+# Java compiled files
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Temporary files
+cp.txt
+
+# Firebase / Secrets
+guardian.json
+.env
